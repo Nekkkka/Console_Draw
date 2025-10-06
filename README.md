@@ -8,12 +8,12 @@ It’s a beginner-friendly project made to explore C++ and learn how to handle m
 Draw using mouse in the Windows console 🖱️
 Multiple tools available:
 
-✏️ Brush — 1 or B\n
-📏 Line — 2 or L
-⬛ Rectangle — 3 or R
-⚪ Circle — 4 or C
-🌊 Fill — 5 or F
-🎯 Eyedropper — 6 or I (or while holding Alt)
+  ✏️ Brush — 1 or B 
+  📏 Line — 2 or L
+  ⬛ Rectangle — 3 or R
+  ⚪ Circle — 4 or C
+  🌊 Fill — 5 or F
+  🎯 Eyedropper — 6 or I (or while holding Alt)
 
 Quick access via hotkeys
 Simple and intuitive interface
