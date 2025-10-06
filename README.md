@@ -18,6 +18,8 @@ Multiple tools available:
 Quick access via hotkeys
 Simple and intuitive interface
 
+DO NOT PRESS F11 AND DO NOT TRY RESIZE THE WINDOW (You would not like it)
+
 Build & Run
 Requirements:
 
@@ -33,11 +35,11 @@ How to build:
 
 (or open the project in Visual Studio / Code::Blocks)
 
-📸 Example
+Example:
 
 <img width="1200" height="914" alt="image" src="https://github.com/user-attachments/assets/9e3b8a08-bd98-4fe6-b104-d918df9d674e" />
 
-💡 Future Plans
+Future Plans
 
 - Save drawings to a file
 - Add color support (i`m not sure)
@@ -45,8 +47,9 @@ How to build:
 - Undo/redo functionality
 - Console-based interactive toolbar
 
-🧑‍💻 Author
+ uthor
 
 Created with passion as my first C++ project 💻
-[Nekkka]
-[(https://github.com/Nekkkka)]
+
+- [Nekkka]
+- [(https://github.com/Nekkkka)]
