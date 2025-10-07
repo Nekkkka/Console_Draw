@@ -1,7 +1,6 @@
 # Console Draw
 
 Console Draw is a C++ console-based drawing tool that lets you draw using your mouse directly in the Windows console.
-It’s a beginner-friendly project made to explore C++ and learn how to handle mouse input and console rendering.
 
 >[!NOTE]
 >  ## Controls
