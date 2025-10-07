@@ -14,6 +14,7 @@ Multiple tools available:
 -  Circle — 4 or C
 -  Fill — 5 or F
 -  Eyedropper — 6 or I (or while holding Alt)
+-  Save - F2
 
 Quick access via hotkeys
 Simple and intuitive interface
