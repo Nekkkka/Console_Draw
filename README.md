@@ -23,6 +23,5 @@ It’s a beginner-friendly project made to explore C++ and learn how to handle m
 
 <img width="1200" height="914" alt="image" src="https://github.com/user-attachments/assets/9e3b8a08-bd98-4fe6-b104-d918df9d674e" />
 
-## author:
-
-### Created with passion as my first C++ project by [Nekkka](https://github.com/Nekkkka)
+>[!IMPORTANT]
+>### Created with passion as my first C++ project by [Nekkka](https://github.com/Nekkkka)
