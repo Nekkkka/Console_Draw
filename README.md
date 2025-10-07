@@ -26,6 +26,4 @@ DO NOT PRESS F11 AND DO NOT TRY RESIZE THE WINDOW (You would not like it)
 
 ## author:
 
-### Created with passion as my first C++ project
-
-[Nekkka](url)
+### Created with passion as my first C++ project by [Nekkka](https://github.com/Nekkkka)
